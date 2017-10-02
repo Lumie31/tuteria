@@ -1,0 +1,104 @@
+.header {
+  background-color: royalblue;
+  padding: 3px;
+  color: white;
+  font-weight: bold;
+}
+
+.headertitle {
+  font-size: 2em;
+  border-right: 1px solid white;
+  text-align: center;
+}
+
+.subjecttitle {
+  align-self: auto;
+  padding-top: 15px;
+  letter-spacing: 1px;
+}
+
+.main {
+  margin: 50px 0;
+  font-weight: bolder;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.optiontext {
+  margin: 5px auto;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.left {
+  display: absolute;
+  float: left;
+  padding-top: 10x;
+  border: 2px solid #9ca4ab;
+}
+
+.questionbox {
+  border: 2px solid lightgray;
+  padding: 40px;
+  background: white;
+}
+
+.questiontext {
+  font-weight: 600;
+  /* color: ; */
+}
+
+.green {
+  color: green;
+}
+
+.grey {
+  color: #9ca4ab;
+}
+
+.option {
+  margin-bottom: 12px;
+  display: flex;
+  cursor: pointer;
+  padding: 6px;
+}
+
+.option-green {
+  border: 3px solid green;
+}
+
+.option-grey {
+  border: 3px solid lightgray;
+}
+
+.questiontext {
+  margin-bottom: 30px;
+}
+
+.button {
+  margin: 0px 2px;
+}
+
+.tog {
+  margin-bottom: 0px;
+}
+
+.badge {
+  padding-top: 8px;
+}
+
+div {
+  font-family: "Open Sans", sans-serif;
+}
+
+.bg {
+  background-image: url("https://drive.google.com/uc?id=0B_Fb3jIN0xDjYW5JRFpPdnpBdFU");
+}
