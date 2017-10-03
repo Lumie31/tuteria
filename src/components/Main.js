@@ -35,7 +35,7 @@ export default class Main extends Component {
   render() {
     let { total, current, time, question } = this.state;
     return (
-      <Row className="bg">
+      <Row className>
         <Col xs={12} sm={2} />
         <Col xs={12} sm={8} className="main">
           <div className="row justify-content-between">

@@ -1,5 +1,6 @@
 .header {
   background-color: royalblue;
+  opacity: 0.9;
   padding: 3px;
   color: white;
   font-weight: bold;
@@ -97,8 +98,4 @@
 
 div {
   font-family: "Open Sans", sans-serif;
-}
-
-.bg {
-  background-image: url("https://drive.google.com/uc?id=0B_Fb3jIN0xDjYW5JRFpPdnpBdFU");
 }
